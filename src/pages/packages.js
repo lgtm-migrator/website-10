@@ -49,6 +49,6 @@ const Packages = () => (
       </Repo>
     </Flex>
   </Layout>
-)
+);
 
-export default Packages
+export default Packages;

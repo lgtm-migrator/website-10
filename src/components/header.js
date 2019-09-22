@@ -44,16 +44,17 @@ const Header = ({ siteTitle }) => (
       <a href="https://docs.meteor.com" title="Official Meteor documentation">Documentation</a>
       <a href="https://guide.meteor.com" title="Official Meteor guide">Guide</a>
       <a href="https://www.meteor.com" title="Official Meteor website">Meteor</a>
+      <a href="https://github.com/urigo/awesome-meteor" title="Awesome Meteor list">Awesome Meteor packages</a>
     </Navigation>
   </Headr>
-)
+);
 
 Header.propTypes = {
   siteTitle: PropTypes.string,
-}
+};
 
 Header.defaultProps = {
   siteTitle: ``,
-}
+};
 
 export default Header

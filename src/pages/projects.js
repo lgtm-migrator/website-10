@@ -20,6 +20,6 @@ const Projects = () => (
       <div className="ctct-inline-form" data-form-id="6a5e41b7-0308-475a-9ee9-1efbddbe22fe"></div>
     <h4>Podcast</h4>
   </Layout>
-)
+);
 
-export default Projects
+export default Projects;

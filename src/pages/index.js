@@ -12,6 +12,6 @@ const IndexPage = () => (
 
     <h2>News</h2>
   </Layout>
-)
+);
 
-export default IndexPage
+export default IndexPage;
