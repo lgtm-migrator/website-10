@@ -4,7 +4,9 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 
 const Projects = () => {
-  window._ctct_m = "63e1ff839a591c2755665126fcf01bc0";
+  if (typeof window !== `undefined`) {
+    window._ctct_m = "63e1ff839a591c2755665126fcf01bc0";
+  }
   return (
     <Layout>
       <SEO title="Projects" />
