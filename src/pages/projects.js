@@ -14,6 +14,8 @@ const Projects = () => (
           <li><a href="https://github.com/meteor/blaze">Blaze</a></li>
       </ul>
     <h3>Non-development projects</h3>
+    <h4>Slack</h4>
+    <p>Join us on <a href="https://join.slack.com/t/meteor-community/shared_invite/enQtNzUxMTcwNzU0NzM4LWU1MTJmMzlkMTM4OTU5MTQ3NjU2NGU2NDU4MDdhMTUwZmY1NGRmOGNiOWQ0MWI5ZmU3OTY1ZGQyOTI3YTg5ODE">Slack</a>!</p>
     <h4>E-mail newsletter</h4>
       <script> var _ctct_m = "63e1ff839a591c2755665126fcf01bc0"; </script>
       <script id="signupScript" src="//static.ctctcdn.com/js/signup-form-widget/current/signup-form-widget.min.js" async defer></script>
