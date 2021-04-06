@@ -63,3 +63,8 @@ external_link:
 
 theme: '../node_modules/meteor-theme-hexo'
 # theme: 'meteor'
+
+deploy:
+  type: git
+  repo: https://github.com/Meteor-Community-Packages/website
+  branch: master
