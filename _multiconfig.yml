@@ -87,7 +87,9 @@ prism_plus:
   default_preset:
     lineno: true
 deploy:
-  type: null
+  type: git
+  repo: 'https://github.com/Meteor-Community-Packages/website'
+  branch: master
 browsersync:
   ghostMode: false
 title: Meteor Community
