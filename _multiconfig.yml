@@ -1,0 +1,137 @@
+github_repo: Meteor-Community-Packages/website
+description: Community site for Meteor Community Packages
+author: null
+language: en-US
+timezone: null
+apis:
+  gtm: GTM-MBQ369M
+  marketo: 627-RVJ-941
+  segment: zQx6cQifkTU79E3L0XAnmrOXP2A5bC6r
+  docsearch:
+    apiKey: 85d8a989beb6790642e6edd6ea380788
+    indexName: meteor
+content_root: community
+css_bundle: meteor
+nav_class: dark
+favicon: images/favicon-meteor.png
+logo:
+  nav_mobile: images/meteor-cloud.png
+  url: ''
+  title: Meteor Developers
+  subtitle: Developers
+nav_links:
+  Meteor Cloud:
+    url: 'https://www.meteor.com/cloud'
+    partial: illustration-guide
+    target: _new
+    active: false
+  Tutorials:
+    url: 'https://www.meteor.com/developers/tutorials'
+    partial: illustration-guide
+    target: _new
+    active: false
+  Guide:
+    url: 'https://guide.meteor.com'
+    partial: illustration-compass
+    active: false
+  API Docs:
+    url: 'https://docs.meteor.com'
+    partial: illustration-logs
+    active: false
+  Forums:
+    url: 'https://forums.meteor.com/'
+    partial: illustration-support
+    target: _new
+    active: false
+social_links:
+  github: 'https://github.com/meteor'
+  twitter: '@meteorjs'
+root: /
+permalink: ':year/:month/:day/:title/'
+permalink_defaults: null
+source_dir: community
+public_dir: public
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: ':lang'
+skip_render: null
+new_post_name: ':title.md'
+default_layout: post
+titlecase: false
+external_link:
+  enable: true
+  field: site
+  exclude: []
+filename_case: 0
+render_drafts: false
+post_asset_folder: false
+relative_link: false
+future: true
+default_category: uncategorized
+category_map: null
+tag_map: null
+date_format: YYYY-MM-DD
+time_format: 'HH:mm:ss'
+per_page: 10
+pagination_dir: page
+theme: ../node_modules/meteor-theme-hexo
+marked:
+  breaks: false
+highlight:
+  enable: false
+prism_plus:
+  enable: true
+  mode: preprocess
+  default_preset:
+    lineno: true
+deploy:
+  type: null
+browsersync:
+  ghostMode: false
+title: Meteor Community
+subtitle: Meteor Community Packages
+versions:
+  - '1'
+versioned-netlify-redirects:
+  netlify_site_id: meteor-community
+sidebar_categories:
+  'null':
+    - index
+    - news
+  Projects:
+    - projects/index
+    - projects/newsletter
+    - projects/slack
+    - projects/meetups
+    - projects/impact
+    - projects/packosphere
+  Packages:
+    - packages/index
+    - pacakges/collection2
+    - packages/roles
+    - packages/autoform
+    - packages/collection-hooks
+    - pacakges/method-hooks
+    - packages/picker
+    - packages/publish-composite
+    - packages/fast-render
+    - packages/inject-data
+    - packages/stylus
+    - packages/stratosphere
+    - packages/link-accounts
+    - packages/api-untethered
+    - packages/check-npm-version
+    - packages/push
+    - packages/partitioner
+    - packages/minifiers-autoprefix
+    - packages/meteor-packages
+    - packages/meteor-scss
+    - packages/postcss
+    - packages/desktop
+    - packages/timesync
+    - packages/react-router-ssr
+    - packages/elastic-apm
+    - packages/user-status
+url: 'http://meteorjs.community/'

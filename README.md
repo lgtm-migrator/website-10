@@ -1,11 +1,4 @@
-## Meteor Vue Tutorial
-
-### MIGRATION IN PROGRESS
-Don't use this yet.
-
-If you are looking for the tutorial, please go to [https://react-tutorial.meteor.com](https://react-tutorial.meteor.com) and check it there. 
-
-This repository is the place to check the code (`src` folder) and to make contributions. 
+## Meteor Community Website
 
 Read in the tutorial home page where you should ask questions (spoiler: [Forums](https://forums.meteor.com) or [Slack](https://join.slack.com/t/meteor-community/shared_invite/enQtODA0NTU2Nzk5MTA3LWY5NGMxMWRjZDgzYWMyMTEyYTQ3MTcwZmU2YjM5MTY3MjJkZjQ0NWRjOGZlYmIxZjFlYTA5Mjg4OTk3ODRiOTc)).
 
@@ -19,12 +12,12 @@ If you are making a larger contribution, you may need to run the site locally:
 
 ### Running locally
 
-- Install [nvm](https://github.com/nvm-sh/nvm) to manage your Node.js (yes, this is an hexo project and not Meteor, in Meteor you don't need to worry about Node.js versions at all)
+- Install [nvm](https://github.com/nvm-sh/nvm) to manage your Node.js (yes, this is a hexo project and not Meteor, in Meteor you don't need to worry about Node.js versions at all)
 
-  `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash`
-- Install Node.js 8.11.2:
+  `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash`
+- Install Node.js 14.16.0:
 
-  `nvm install 8.11.2`
+  `nvm install 14.16.0`
   
 - Install the project
 
