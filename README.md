@@ -1,5 +1,7 @@
 ## Meteor Community Website
 
+[![Crowdin](https://badges.crowdin.net/meteor-community-website/localized.svg)](https://crowdin.com/project/meteor-community-website)
+
 Read in the tutorial home page where you should ask questions (spoiler: [Forums](https://forums.meteor.com) or [Slack](https://join.slack.com/t/meteor-community/shared_invite/enQtODA0NTU2Nzk5MTA3LWY5NGMxMWRjZDgzYWMyMTEyYTQ3MTcwZmU2YjM5MTY3MjJkZjQ0NWRjOGZlYmIxZjFlYTA5Mjg4OTk3ODRiOTc)).
 
 This is a [hexo](https://hexo.io) static site used to generate the [Meteor React Tutorial Docs](https://react-tutorial.meteor.com).

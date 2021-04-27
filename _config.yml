@@ -43,7 +43,7 @@ sidebar_categories:
     - packages/react-router-ssr
     - packages/elastic-apm
     - packages/user-status
-github_repo: 'Meteor-Community-Packages/website'
+github_repo: Meteor-Community-Packages/website
 
 url: http://meteorjs.community/
 root: /
@@ -54,7 +54,17 @@ content_root: community
 highlight:
   enable: false
 
-language: 'en-US'
+language:
+  - en-US
+  - ko-KR
+  - ja-JP
+  - cs-CZ
+
+i18n_dir: :lang
+
+logo:
+  title:
+  subtitle: Community
 
 external_link:
   enable: true
