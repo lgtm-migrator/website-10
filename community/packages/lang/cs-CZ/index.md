@@ -3,9 +3,9 @@ title: Úvod
 description: Proč a o jaké balíčky se MCP stará?
 ---
 
-The main purpose of Meteor Community Packages is to maintain and develop major community packages that the original owner no longer wishes to or can maintain or wants it to be in the community domain.
+Hlavním účelem Meteor Community Packages je udržovat a vyvíjet velké komunitní balíčky, které původní vlastník již nepřeje nebo nemůže udržovat nebo chce, aby byly v komunitní doméně.
 
-* [GitHub organization](https://github.com/Meteor-Community-Packages)
+* [Organizace na GitHubu](https://github.com/Meteor-Community-Packages)
 
-## Process of accepting package
+## Proces přijímání balíčku
 
