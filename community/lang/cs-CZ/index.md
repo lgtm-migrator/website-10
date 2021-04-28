@@ -1,5 +1,5 @@
 ---
-title: Meteor Community
+title: Meteor komunita
 ---
 
-Welcome to the crossroad of Meteor Community. This page is maintained by the Meteor Community Packages, which maintain important community packages for the Meteor JS framework.
+Vítejte na křižovatce pro Meteor komunitu. Tato stránka je spravována Meteor Community Packages, která spravuje důležité komunitní balíčky pro Meteor JS.
