@@ -1,6 +1,6 @@
 ---
-title: Introduction
-description: Why and what packages does MCP take care of?
+title: Úvod
+description: Proč a o jaké balíčky se MCP stará?
 ---
 
 The main purpose of Meteor Community Packages is to maintain and develop major community packages that the original owner no longer wishes to or can maintain or wants it to be in the community domain.
