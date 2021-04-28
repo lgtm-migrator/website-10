@@ -1,5 +1,5 @@
 ---
-title: Meteor Community
+title: Meteorのコミュニティ
 ---
 
-Welcome to the crossroad of Meteor Community. This page is maintained by the Meteor Community Packages, which maintain important community packages for the Meteor JS framework.
+Meteor Communityの交差点へようこそ。 このページはMeteor JavaScriptフレームワークの重要なコミュニティパッケージを維持するMeteor Community Packagesによってメンテナンスされています。
