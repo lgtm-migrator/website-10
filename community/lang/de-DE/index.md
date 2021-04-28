@@ -2,4 +2,4 @@
 title: Meteor Community
 ---
 
-Welcome to the crossroad of Meteor Community. This page is maintained by the Meteor Community Packages, which maintain important community packages for the Meteor JS framework.
+Herzlich willkommen an der Kreuzung der Meteor Community. Diese Seite wird von den Meteor Community Packages betreut, die wichtige Community-Pakete für das Meteor JS Framework pflegen.
