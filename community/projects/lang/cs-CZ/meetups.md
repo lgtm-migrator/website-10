@@ -1,14 +1,14 @@
 ---
-title: Meetups
-description: Community meetups
+title: Setkání
+description: Komunitní schůzky
 ---
 
-## Address
+## Adresa
 [https://meetups.meteor.com](https://meetups.meteor.com)
 
-## Managers
-* [Jan Dvorak](https://github.com/sponsors/StorytellerCZ)
+## Správci
+* [Jan Dvořák](https://github.com/sponsors/StorytellerCZ)
 * Alim Gafar
 
-## Description
-[Meteor meetups](https://meetups.meteor.com) is a meetup page that list local Meteor groups and allows them to host online meetings and schedule offline meetings as well. Online meetings are recorded and then made available to the wider community.
+## Popis
+[Meteor meetups](https://meetups.meteor.com) je stránka pro schůzky, která obsahuje místní skupiny Meteor a umožňuje jim pořádat online schůzky a plánovat offline schůzky. Online schůzky jsou zaznamenány a poté zpřístupněny širší komunitě.
