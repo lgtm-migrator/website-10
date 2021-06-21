@@ -59,6 +59,7 @@ language:
   - ko-KR
   - ja-JP
   - cs-CZ
+  - de-DE
 
 i18n_dir: :lang
 
