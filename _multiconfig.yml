@@ -17,8 +17,8 @@ favicon: images/favicon-meteor.png
 logo:
   nav_mobile: images/meteor-cloud.png
   url: ''
-  title: Meteor Developers
-  subtitle: Developers
+  title: null
+  subtitle: Community
 nav_links:
   Meteor Cloud:
     url: 'https://www.meteor.com/cloud'
@@ -109,6 +109,7 @@ sidebar_categories:
     - projects/meetups
     - projects/impact
     - projects/packosphere
+    - projects/testing
   Packages:
     - packages/index
     - pacakges/collection2
@@ -137,3 +138,9 @@ sidebar_categories:
     - packages/elastic-apm
     - packages/user-status
 url: 'http://meteorjs.community/'
+languages:
+  - en-US
+  - ko-KR
+  - ja-JP
+  - cs-CZ
+  - de-DE

@@ -13,6 +13,6 @@ This package requires the [simpl-schema NPM package](https://github.com/aldeed/s
 * [Kelly Copley](https://github.com/sponsors/copleykj)
 * [Harry Adel](https://github.com/harryadel)
 
-## Pacakges
+## Packages
 - [GitHub repository](https://github.com/Meteor-Community-Packages/meteor-collection2)
 - [Atmosphere](https://atmospherejs.com/aldeed/collection2)

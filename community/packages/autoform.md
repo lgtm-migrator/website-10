@@ -5,7 +5,7 @@ description: Blaze Autoform and related packages
 
 ## Managers
 
-## Pacakges
+## Packages
 
 ### Autoform
 * [GitHub repository](https://github.com/Meteor-Community-Packages/meteor-autoform)

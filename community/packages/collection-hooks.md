@@ -13,7 +13,7 @@ Works across client, server or a mix. Also works when a client initiates a colle
 * [Simon Fridlund](https://github.com/sponsors/zimme)
 * [Kelly Copley](https://github.com/sponsors/copleykj/)
 
-## Pacakges
+## Packages
 * [GitHub repository](https://github.com/Meteor-Community-Packages/meteor-collection-hooks)
 * [Atmosphere](https://atmospherejs.com/matb33/collection-hooks)
 * [Packosphere](https://packosphere.com/matb33/collection-hooks)

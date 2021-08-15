@@ -8,7 +8,7 @@ Picker is an easy to use server side router for Meteor. This router respect othe
 ## Managers
 * [Jan Dvorak](https://github.com/sponsors/StorytellerCZ)
 
-## Pacakges
+## Packages
 * [GitHub repository](https://github.com/Meteor-Community-Packages/picker)
 * [Atmosphere](https://atmospherejs.com/communitypackages/picker)
 * [Packosphere](https://packosphere.com/communitypackages/picker)
