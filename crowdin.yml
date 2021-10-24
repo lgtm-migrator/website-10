@@ -1,4 +1,4 @@
 base_path: /community
 files:
-  - source: /community/**/*.md
+  - source: /**/*.md
     translation: /%locale%/%original_path%/%original_file_name%
