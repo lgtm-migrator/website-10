@@ -19,11 +19,11 @@ sidebar_categories:
     - projects/testing
   Packages:
     - packages/index
-    - pacakges/collection2
+    - packages/collection2
     - packages/roles
     - packages/autoform
     - packages/collection-hooks
-    - pacakges/method-hooks
+    - packages/method-hooks
     - packages/picker
     - packages/publish-composite
     - packages/fast-render
