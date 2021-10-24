@@ -7,5 +7,5 @@ lang: en
 ## Managers
 * [Kelly Copley](https://github.com/sponsors/copleykj/)
 
-## Packages
+## Package
 - [GitHub repository](https://github.com/Meteor-Community-Packages/meteor-api-untethered)
