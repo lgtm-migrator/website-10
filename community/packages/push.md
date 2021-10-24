@@ -1,6 +1,7 @@
 ---
 title: Push
 description: Push notifications for Cordova and browser
+lang: en
 ---
 
 Push notifications for cordova (ios, android) browser (Chrome, Safari, Firefox) - One unified api on client and server.

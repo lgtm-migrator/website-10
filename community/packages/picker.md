@@ -1,6 +1,7 @@
 ---
 title: Picker
 description: Server Side Router
+lang: en
 ---
 
 Picker is an easy to use server side router for Meteor. This router respect others. So, you can use Iron Router and other routers and middlewares along side with this.

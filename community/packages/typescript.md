@@ -1,6 +1,7 @@
 ---
 title: Typescript
 description:
+lang: en
 ---
 
 Meteor typescript compiler plugin package.

@@ -1,6 +1,7 @@
 ---
 title: Inject data
 description:
+lang: en
 ---
 
 A way to inject data to the client with initial HTML. A continuation of `meteorhacks:inject-data`.

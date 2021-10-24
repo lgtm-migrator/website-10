@@ -1,6 +1,7 @@
 ---
 title: React Router SSR
 description:
+lang: en
 ---
 
 Simple isomorphic React SSR for Meteor with subscribed data re-hydration.

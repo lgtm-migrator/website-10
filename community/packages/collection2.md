@@ -1,6 +1,7 @@
 ---
 title: Collection 2
 description: Blaze Autoform and related packages
+lang: en
 ---
 
 A Meteor package that allows you to attach a schema to a Mongo.Collection. Automatically validates against that schema when inserting and updating from client or server code.

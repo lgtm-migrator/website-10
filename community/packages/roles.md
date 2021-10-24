@@ -1,6 +1,7 @@
 ---
 title: Roles
 description: meteor-roles
+lang: en
 ---
 
 Authorization package for Meteor - compatible with built-in accounts package.

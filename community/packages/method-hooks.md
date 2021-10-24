@@ -1,6 +1,7 @@
 ---
 title: Method Hooks
 description: Meteor Method Hooks
+lang: en
 ---
 
 Before/after hooks for Meteor methods.

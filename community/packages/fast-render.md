@@ -1,6 +1,7 @@
 ---
 title: Fast Render
 description:
+lang: en
 ---
 
 Fast Render is back!

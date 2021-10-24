@@ -1,6 +1,7 @@
 ---
 title: Collection Hooks
 description: Meteor Collection Hooks
+lang: en
 ---
 
 Extends Mongo.Collection with `before`/`after` hooks for `insert`, `update`, `remove`, `find`, and `findOne`.

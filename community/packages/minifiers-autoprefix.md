@@ -1,6 +1,7 @@
 ---
 title: Standard Minifier for CSS + autoprefixing
 description: meteor-minifiers-autoprefix
+lang: en
 ---
 
 This package provides a minifier plugin used for Meteor apps by default and adds autoprefixing to it.

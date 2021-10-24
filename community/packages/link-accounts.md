@@ -1,6 +1,7 @@
 ---
 title: Link accounts
 description: meteor-link-accounts
+lang: en
 ---
 
 A Meteor package designed to links social network accounts without any hassles.

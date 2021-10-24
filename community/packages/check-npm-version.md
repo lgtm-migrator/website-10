@@ -1,6 +1,7 @@
 ---
 title: Check NPM version
 description:
+lang: en
 ---
 
 Enforces "peer" npm dependencies in Meteor packages.

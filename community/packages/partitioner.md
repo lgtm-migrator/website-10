@@ -1,6 +1,7 @@
 ---
 title: Partitioner
 description:
+lang: en
 ---
 
 Transparently divide a single Meteor app into several different instances shared between different groups of users.

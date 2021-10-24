@@ -1,6 +1,7 @@
 ---
 title: Autoform
 description: Blaze Autoform and related packages
+lang: en
 ---
 
 ## Managers

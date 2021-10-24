@@ -1,6 +1,7 @@
 ---
 title: Stratosphere
 description: Meteor private package server
+lang: en
 ---
 
 Stratosphere is a private package server for Meteor. So this is like Atmosphere on your own servers, with private packages.

@@ -1,6 +1,7 @@
 ---
 title: Publish composite
 description: Push notifications for Cordova and browser
+lang: en
 ---
 
 `publishComposite(...)` provides a flexible way to publish a set of related documents from various collections using a reactive join. This makes it easy to publish a whole tree of documents at once. The published collections are reactive and will update when additions/changes/deletions are made.

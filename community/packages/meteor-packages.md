@@ -1,6 +1,7 @@
 ---
 title: Meteor Package Server Sync
 description:
+lang: en
 ---
 
 A client for [Meteor Package Server API](https://github.com/meteor/meteor/wiki/Meteor-Package-Server-API).

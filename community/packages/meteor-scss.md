@@ -1,6 +1,7 @@
 ---
 title: SASS for Meteor
 description: meteor-scss
+lang: en
 ---
 
 This is a Sass build plugin for Meteor. It compiles Sass files with node-sass.

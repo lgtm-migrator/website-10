@@ -1,6 +1,7 @@
 ---
 title: API Untethered
 description: A collection of packages to make Meteor available to other environments.
+lang: en
 ---
 
 ## Managers

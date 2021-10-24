@@ -1,6 +1,7 @@
 ---
 title: Stylus
 description: Meteor Stylus
+lang: en
 ---
 
 A Stylus compiler for Meteor based off `meteor:stylus` and `mquandalle:stylus`.
