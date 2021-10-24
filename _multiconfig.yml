@@ -2,10 +2,11 @@ github_repo: Meteor-Community-Packages/website
 description: Community site for Meteor Community Packages
 author: null
 language:
-  - en-US
+  - en
   - ko-KR
   - ja-JP
   - cs-CZ
+  - de-DE
 timezone: null
 apis:
   gtm: GTM-MBQ369M
@@ -25,30 +26,30 @@ logo:
   subtitle: Community
 nav_links:
   Meteor Cloud:
-    url: 'https://www.meteor.com/cloud'
+    url: https://www.meteor.com/cloud
     partial: illustration-guide
     target: _new
     active: false
   Tutorials:
-    url: 'https://www.meteor.com/developers/tutorials'
+    url: https://www.meteor.com/developers/tutorials
     partial: illustration-guide
     target: _new
     active: false
   Guide:
-    url: 'https://guide.meteor.com'
+    url: https://guide.meteor.com
     partial: illustration-compass
     active: false
   API Docs:
-    url: 'https://docs.meteor.com'
+    url: https://docs.meteor.com
     partial: illustration-logs
     active: false
   Forums:
-    url: 'https://forums.meteor.com/'
+    url: https://forums.meteor.com/
     partial: illustration-support
     target: _new
     active: false
 social_links:
-  github: 'https://github.com/meteor'
+  github: https://github.com/meteor
   twitter: '@meteorjs'
 root: /
 permalink: ':year/:month/:day/:title/'
@@ -77,10 +78,10 @@ default_category: uncategorized
 category_map: null
 tag_map: null
 date_format: YYYY-MM-DD
-time_format: 'HH:mm:ss'
+time_format: HH:mm:ss
 per_page: 10
 pagination_dir: page
-theme: ../node_modules/meteor-theme-hexo
+theme: meteor
 marked:
   breaks: false
 highlight:
@@ -92,7 +93,7 @@ prism_plus:
     lineno: true
 deploy:
   type: git
-  repo: 'https://github.com/Meteor-Community-Packages/website'
+  repo: https://github.com/Meteor-Community-Packages/website
   branch: master
 browsersync:
   ghostMode: false
@@ -113,13 +114,14 @@ sidebar_categories:
     - projects/meetups
     - projects/impact
     - projects/packosphere
+    - projects/testing
   Packages:
     - packages/index
-    - pacakges/collection2
+    - packages/collection2
     - packages/roles
     - packages/autoform
     - packages/collection-hooks
-    - pacakges/method-hooks
+    - packages/method-hooks
     - packages/picker
     - packages/publish-composite
     - packages/fast-render
@@ -140,4 +142,4 @@ sidebar_categories:
     - packages/react-router-ssr
     - packages/elastic-apm
     - packages/user-status
-url: 'http://meteorjs.community/'
+url: http://meteorjs.community/
