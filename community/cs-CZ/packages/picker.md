@@ -1,15 +1,15 @@
 ---
 title: Picker
-description: Server Side Router
-lang: en
+description: Serverový router
+lang: cs-CZ
 ---
 
-Picker is an easy to use server side router for Meteor. This router respect others. So, you can use Iron Router and other routers and middlewares along side with this.
+Picker je snadný router pro server v Meteoru. Tento router respektuje ostatní routery. Takýe můžete používat Iron Router a ostatní routery a middlewary s Pickerem.
 
-## Managers
-* [Jan Dvorak](https://github.com/sponsors/StorytellerCZ)
+## Správci
+* [Jan Dvořák](https://github.com/sponsors/StorytellerCZ)
 
-## Packages
-* [GitHub repository](https://github.com/Meteor-Community-Packages/picker)
+## Balíček
+* [GitHub repozitář](https://github.com/Meteor-Community-Packages/picker)
 * [Atmosphere](https://atmospherejs.com/communitypackages/picker)
 * [Packosphere](https://packosphere.com/communitypackages/picker)

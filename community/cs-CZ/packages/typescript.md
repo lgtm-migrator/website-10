@@ -1,17 +1,17 @@
 ---
 title: Typescript
 description:
-lang: en
+lang: cs-CZ
 ---
 
-Meteor typescript compiler plugin package.
+Balíček pluginů pro kompilátor Meteor typescriptu.
 
-## Managers
+## Správci
 * [Per Bergland](https://github.com/perbergland)
 
-## Packages
+## Balíčky
 ### meteor-typescript
-* [GitHub repository](https://github.com/Meteor-Community-Packages/meteor-typescript)
+* [GitHub repozitář](https://github.com/Meteor-Community-Packages/meteor-typescript)
 
 ### meteor-typescript-compiler
-* [GitHub repository](https://github.com/Meteor-Community-Packages/meteor-typescript-compiler)
+* [GitHub repozitář](https://github.com/Meteor-Community-Packages/meteor-typescript-compiler)

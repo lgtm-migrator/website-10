@@ -1,9 +1,9 @@
 ---
 title: Blaze
-description: The original Meteor front-end
-lang: en
+description: Původní front-end Meteoru
+lang: cs-CZ
 ---
 
-## Managers
+## Správci
 
-## Packages
+## Balíčky

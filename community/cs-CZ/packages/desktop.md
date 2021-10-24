@@ -1,14 +1,14 @@
 ---
 title: Desktop
 description: meteor-desktop
-lang: en
+lang: cs-CZ
 ---
 
-Build desktop apps with Meteor & Electron. Full integration with hot code push implementation.
+Vytvořte desktopové aplikace pomocí Meteoru & Electronu. Full integration with hot code push implementation.
 
-## Managers
+## Správci
 
 
-## Package
-* [GitHub repository](https://github.com/Meteor-Community-Packages/meteor-desktop)
+## Balíček
+* [GitHub repozitář](https://github.com/Meteor-Community-Packages/meteor-desktop)
 

@@ -1,14 +1,14 @@
 ---
 title: Push
-description: Push notifications for Cordova and browser
-lang: en
+description: Push oznámení pro Cordovu a prohlížeč
+lang: cs-CZ
 ---
 
-Push notifications for cordova (ios, android) browser (Chrome, Safari, Firefox) - One unified api on client and server.
+Push notifikace pro cordovu (ios, android) prohlížeč (Chrome, Safari, Firefox) - Jedeno sjednocené api na klientovi a serveru.
 
-## Managers
+## Správci
 * [William Reiske](https://github.com/sponsors/wreiske)
 
-## Package
-* [GitHub repository](https://github.com/Meteor-Community-Packages/push)
+## Balíček
+* [GitHub repozitář](https://github.com/Meteor-Community-Packages/push)
 

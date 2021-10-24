@@ -1,15 +1,15 @@
 ---
 title: Partitioner
 description:
-lang: en
+lang: cs-CZ
 ---
 
 Transparently divide a single Meteor app into several different instances shared between different groups of users.
 
-## Managers
+## Správci
 * [Andrew Mao](https://github.com/mizzao)
 * [William Reiske](https://github.com/sponsors/wreiske)
 
-## Package
-* [GitHub repository](https://github.com/Meteor-Community-Packages/meteor-partitioner)
+## Balíček
+* [GitHub repozitář](https://github.com/Meteor-Community-Packages/meteor-partitioner)
 

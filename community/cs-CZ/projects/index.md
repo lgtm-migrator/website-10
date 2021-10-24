@@ -1,7 +1,7 @@
 ---
-title: Introduction
-description: What else does Meteor Community Packages do?
-lang: en
+title: Úvod
+description: Co jiného dělá Meteor Community Packages?
+lang: cs-CZ
 ---
 
-Besides taking care of major community packages we also work and organize other well known projects in the community. We recognize that there are other important things that community needs in order to grow and flourish and together with Meteor Software and other partners we work to make them reality.
+Kromě péče o velké komunitní balíčky také pracujeme a organizujeme další dobře známé projekty v komunitě. Uvědomujeme si, že existují další důležité věci, které komunita potřebuje, aby mohla růst a vzkvétat, a společně s Meteor Software a dalšími partnery pracujeme na tom, aby se staly skutečností.

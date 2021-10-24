@@ -1,14 +1,14 @@
 ---
 title: Stylus
 description: Meteor Stylus
-lang: en
+lang: cs-CZ
 ---
 
-A Stylus compiler for Meteor based off `meteor:stylus` and `mquandalle:stylus`.
+Kompilátor Stylus založený na `meteor:stylus` a `mquandalle:stylus`.
 
-## Managers
+## Správci
 * [Frederick Stark](https://github.com/coagmano)
 * [Kelly Copley](https://github.com/sponsors/copleykj/)
 
-## Package
-* [GitHub repository](https://github.com/Meteor-Community-Packages/meteor-stylus)
+## Balíček
+* [GitHub repozitář](https://github.com/Meteor-Community-Packages/meteor-stylus)

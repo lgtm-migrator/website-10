@@ -1,16 +1,16 @@
 ---
-title: Check NPM version
+title: Ověření NPM verze
 description:
-lang: en
+lang: cs-CZ
 ---
 
-Enforces "peer" npm dependencies in Meteor packages.
+Vynucuje "peer" závislosti npm v balících Meteor.
 
 Use this package if you are writing an Meteor package that depends on a given npm package is installed at the app level of projects you are installed in.
 
-## Managers
+## Správci
 * [Kelly Copley](https://github.com/sponsors/copleykj)
 
-## Package
-* [GitHub repository](https://github.com/Meteor-Community-Packages/check-npm-versions)
+## Balíček
+* [GitHub repozitář](https://github.com/Meteor-Community-Packages/check-npm-versions)
 * [Packosphere](https://packosphere.com/tmeasday/check-npm-versions)

@@ -1,14 +1,14 @@
 ---
 title: Elastic APM
 description:
-lang: en
+lang: cs-CZ
 ---
 
-Performance Monitoring for Meteor based on Elastic APM
+Monitorování výkonnosti Meteoru postavené na Elastic APM
 
-## Managers
+## Správci
 
 
-## Package
-* [GitHub repository](https://github.com/Meteor-Community-Packages/meteor-elastic-apm)
+## Balíček
+* [GitHub repozitář](https://github.com/Meteor-Community-Packages/meteor-elastic-apm)
 

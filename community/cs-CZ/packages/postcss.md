@@ -1,16 +1,16 @@
 ---
 title: PostCSS
-description: PostCSS Plugin For Meteor
-lang: en
+description: PostCSS plugin pro Meteor
+lang: cs-CZ
 ---
 
-Meteor CSS Minifier with PostCSS processing.
+Meteor CSS Minifier s PostCSS zpracováním.
 
-This package allows you to use [PostCSS](https://github.com/postcss/postcss) plugins with .css files. You can add your custom plugins by adding Npm packages using `package.json`. You can also use your favourite preprocessor side by side with this package. It allows you to enable many PostCSS plugins, for example Autoprefixer for all preprocessors you use. (Of course you can use it whithout any preprocessor too).
+Tento balíček umožňuje používat [PostCSS](https://github.com/postcss/postcss) pluginy s .css soubory. You can add your custom plugins by adding Npm packages using `package.json`. You can also use your favourite preprocessor side by side with this package. It allows you to enable many PostCSS plugins, for example Autoprefixer for all preprocessors you use. (Of course you can use it whithout any preprocessor too).
 
-## Managers
+## Správci
 * [Kelly Copley](https://github.com/sponsors/copleykj/)
 * [Mitar](https://github.com/sponsors/mitar)
 
-## Repository
-* [GitHub repository](https://github.com/Meteor-Community-Packages/meteor-postcss)
+## Repozitář
+* [GitHub repozitář](https://github.com/Meteor-Community-Packages/meteor-postcss)

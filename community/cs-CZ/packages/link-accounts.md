@@ -1,15 +1,15 @@
 ---
-title: Link accounts
+title: Propojit účty
 description: meteor-link-accounts
-lang: en
+lang: cs-CZ
 ---
 
-A Meteor package designed to links social network accounts without any hassles.
+Balíček Meteor určený pro propojení účtů na sociálních sítích bez jakýchkoli potíží.
 
-## Managers
-* [Jan Dvorak](https://github.com/sponsors/StorytellerCZ)
+## Správci
+* [Jan Dvořák](https://github.com/sponsors/StorytellerCZ)
 
-## Package
-* [GitHub repository](https://github.com/Meteor-Community-Packages/meteor-link-accounts)
+## Balíček
+* [GitHub repozitář](https://github.com/Meteor-Community-Packages/meteor-link-accounts)
 * [Atmosphere](https://atmospherejs.com/bozhao/link-accounts)
 * [Packosphere](https://packosphere.com/bozhao/link-accounts)

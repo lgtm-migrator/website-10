@@ -1,14 +1,14 @@
 ---
-title: SASS for Meteor
+title: SASS pro Meteor
 description: meteor-scss
-lang: en
+lang: cs-CZ
 ---
 
-This is a Sass build plugin for Meteor. It compiles Sass files with node-sass.
+Sass build plugin pro Meteor. Kompiluje soubory Sass pomocí node-sass.
 
-## Managers
+## Správci
 * [Seba Kerchhof](https://github.com/sebakerckhof)
 
-## Package
-* [GitHub repository](https://github.com/Meteor-Community-Packages/meteor-scss)
+## Balíček
+* [GitHub repozitář](https://github.com/Meteor-Community-Packages/meteor-scss)
 

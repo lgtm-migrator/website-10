@@ -1,15 +1,15 @@
 ---
-title: Autocomplete
+title: Automatické dokončování
 description:
-lang: en
+lang: cs-CZ
 ---
 
 
-## Managers
+## Správci
 * [Andrew Mao](https://github.com/mizzao)
-* [Jan Dvorak](https://github.com/sponsors/StorytellerCZ)
+* [Jan Dvořák](https://github.com/sponsors/StorytellerCZ)
 
-## Package
-* [GitHub repository](https://github.com/Meteor-Community-Packages/meteor-autocomplete)
+## Balíček
+* [GitHub repozitář](https://github.com/Meteor-Community-Packages/meteor-autocomplete)
 * [Atmosphere](https://atmospherejs.com/mizzao/autocomplete)
 

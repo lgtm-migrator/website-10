@@ -1,27 +1,27 @@
 ---
 title: Autoform
-description: Blaze Autoform and related packages
-lang: en
+description: Blaze Autoform a související balíčky
+lang: cs-CZ
 ---
 
-## Managers
+## Správci
 
-## Packages
+## Balíčky
 
 ### Autoform
-* [GitHub repository](https://github.com/Meteor-Community-Packages/meteor-autoform)
+* [GitHub repozitář](https://github.com/Meteor-Community-Packages/meteor-autoform)
 
-### Autoform themes
-* [GitHub repository](https://github.com/Meteor-Community-Packages/meteor-autoform-themes)
+### Autoform vzhledy
+* [GitHub repozitář](https://github.com/Meteor-Community-Packages/meteor-autoform-themes)
 
 ### Autoform Select 2
-* [GitHub repository](https://github.com/Meteor-Community-Packages/meteor-autoform-select2)
+* [GitHub repozitář](https://github.com/Meteor-Community-Packages/meteor-autoform-select2)
 
-### Bootstrap date picker
-* [GitHub repository](https://github.com/Meteor-Community-Packages/meteor-autoform-bs-datepicker)
+### Bootstrap výběr data
+* [GitHub repozitář](https://github.com/Meteor-Community-Packages/meteor-autoform-bs-datepicker)
 
-### Bootstrap date time picker
-* [GitHub repository](https://github.com/Meteor-Community-Packages/meteor-autoform-bs-datetimepicker)
+### Bootstrap výběr data a času
+* [GitHub repozitář](https://github.com/Meteor-Community-Packages/meteor-autoform-bs-datetimepicker)
 
-### Bootstrap button group
-* [GitHub repository](hhttps://github.com/Meteor-Community-Packages/meteor-autoform-bs-button-group-input)
+### Bootstrap skupina tlačítek
+* [GitHub repozitář](https://github.com/Meteor-Community-Packages/meteor-autoform-bs-button-group-input)
