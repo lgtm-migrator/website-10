@@ -57,3 +57,9 @@ We have a git hook to prevent commits that are not passing these rules but it's 
 - Sign the CLA.
 
 - Wait for feedback or approval.
+
+#### Translations
+
+Translating the website into different language can be done via [our Crowdin project](https://crowdin.com/project/meteor-community-website).
+
+It is important to make sure that in every header the `lang` property is set to the locale that is being translated for the translation to work properly. The original is `lang: en`, so for Czech it would be `lang: cs-CZ`, for Japanese: `lang: ja-JP` and so on.
