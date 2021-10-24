@@ -24,4 +24,4 @@ lang: en
 * [GitHub repository](https://github.com/Meteor-Community-Packages/meteor-autoform-bs-datetimepicker)
 
 ### Bootstrap button group
-* [GitHub repository](hhttps://github.com/Meteor-Community-Packages/meteor-autoform-bs-button-group-input)
+* [GitHub repository](https://github.com/Meteor-Community-Packages/meteor-autoform-bs-button-group-input)
