@@ -1,10 +1,9 @@
 ---
-title: Timesync
-description: Push notifications for Cordova and browser
+title: Autocomplete
+description: 
 lang: en
 ---
 
-NTP-style time synchronization between server and client, and facilities to use server time reactively in Meteor applications.
 
 ## Managers
 * [Andrew Mao](https://github.com/mizzao)

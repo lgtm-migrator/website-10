@@ -1,6 +1,6 @@
 ---
 title: Timesync
-description: Push notifications for Cordova and browser
+description: Time synchronization between server and client.
 lang: en
 ---
 
