@@ -1,5 +1,9 @@
 ---
 title: Blaze
-description:
+description: The original Meteor front-end
 lang: en
 ---
+
+## Managers
+
+## Packages
