@@ -1,6 +1,6 @@
 ---
 title: Publish composite
-description: Push notifications for Cordova and browser
+description: Reactively publish selection from multiple collections that depend on data from the previous collection.
 lang: en
 ---
 
