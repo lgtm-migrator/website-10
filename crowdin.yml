@@ -1,4 +1,5 @@
 base_path: /community
+pull_request_labels: ["l10n"]
 files:
   - source: /**/*.md
     translation: /%locale%/%original_path%/%original_file_name%
