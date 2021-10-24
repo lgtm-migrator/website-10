@@ -6,10 +6,6 @@ lang: en
 
 Meteor typescript compiler plugin package.
 
-Depends on https://github.com/Meteor-Community-Packages/meteor-typescript-compiler for the bulk of the implementation.
-
-This project is just a small wrapper to install the compiler as a Meteor plugin.
-
 ## Managers
 * [Per Bergland](https://github.com/perbergland)
 

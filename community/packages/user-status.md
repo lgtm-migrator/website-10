@@ -1,6 +1,6 @@
 ---
 title: User status
-description: Push notifications for Cordova and browser
+description:
 lang: en
 ---
 
