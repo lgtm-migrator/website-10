@@ -1,6 +1,7 @@
 ---
 title: Testing
 description: Packages for testing in Meteor
+lang: en
 ---
 
 ## Manager

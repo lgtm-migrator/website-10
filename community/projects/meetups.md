@@ -1,6 +1,7 @@
 ---
 title: Meetups
 description: Community meetups
+lang: en
 ---
 
 ## Address
