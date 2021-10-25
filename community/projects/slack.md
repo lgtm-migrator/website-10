@@ -2,6 +2,7 @@
 title: Slack
 description: Community Slack
 lang: en
+layout: page
 ---
 
 The community maintains a Slack server for an immediate communication between members.

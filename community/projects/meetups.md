@@ -2,6 +2,7 @@
 title: Meetups
 description: Community meetups
 lang: en
+layout: page
 ---
 
 ## Address

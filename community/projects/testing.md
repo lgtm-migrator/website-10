@@ -2,6 +2,7 @@
 title: Testing
 description: Packages for testing in Meteor
 lang: en
+layout: page
 ---
 
 ## Manager

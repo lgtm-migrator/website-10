@@ -2,6 +2,7 @@
 title: Impact conference
 description: Meteor Impact worldwide conference
 lang: en
+layout: page
 ---
 
 ## Address

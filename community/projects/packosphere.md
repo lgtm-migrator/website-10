@@ -2,6 +2,7 @@
 title: Packosphere
 description: Community maintained Meteor package browser
 lang: en
+layout: page
 ---
 
 ## Address
