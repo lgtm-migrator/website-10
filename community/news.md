@@ -1,7 +1,6 @@
 ---
 title: News
 lang: en
-layout: page
 ---
 
 

@@ -2,7 +2,6 @@
 title: Newsletter
 description: Community newsletter
 lang: en
-layout: page
 ---
 
 ## Manager
