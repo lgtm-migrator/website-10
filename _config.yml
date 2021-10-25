@@ -75,6 +75,7 @@ external_link:
 
 # theme: '../node_modules/meteor-theme-hexo'
 theme: 'meteor'
+default_layout: page
 
 deploy:
   type: git
