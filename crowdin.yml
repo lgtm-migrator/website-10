@@ -1,5 +1,31 @@
 base_path: /community
-pull_request_labels: ["l10n"]
+pull_request_labels:
+  - l10n
 files:
   - source: /**/*.md
+    ignore:
+      - /af-ZA/
+      - /cs-CZ/
+      - /da-DK/
+      - /ca-ES/
+      - /de-DE/
+      - /el-GR/
+      - /es-ES/
+      - /pt-BR/
+      - /fi-FI/
+      - /fr-FR/
+      - /hu-HU/
+      - /it-IT/
+      - /ja-JP/
+      - /ko-KR/
+      - /nl-NL/
+      - /no-NO/
+      - /pl-PL/
+      - /pt-PT/
+      - /ro-RO/
+      - /ru-RU/
+      - /sv-SE/
+      - /tr-TR/
+      - /uk-UA/
+      - /vi-VN/
     translation: /%locale%/%original_path%/%original_file_name%
