@@ -7,5 +7,5 @@ lang: cs-CZ
 ## Správci
 * [Kelly Copley](https://github.com/sponsors/copleykj/)
 
-## Balíčky
+## Package
 - [GitHub repozitář](https://github.com/Meteor-Community-Packages/meteor-api-untethered)
