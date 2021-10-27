@@ -1,14 +1,14 @@
 ---
-title: Testing
-description: Packages for testing in Meteor
-lang: en
+title: Testování
+description: Balíky pro testování v Meteoru
+lang: cs-CZ
 ---
 
-## Manager
-* [Testing team](https://github.com/orgs/Meteor-Community-Packages/teams/testing)
+## Správci
+* [Testovací tým](https://github.com/orgs/Meteor-Community-Packages/teams/testing)
 
-## Description
-Previously knows as `meteortesting`, is now part of Community Packages. These include 3 packages for testing in Meteor with Mocha:
+## Popis
+Dříve je známo jako `meteortesting`, je nyní součástí komunitních balíčků. Obsahují 3 balíky pro testování v Meteoru s Mocha:
 
 * [Mocha](https://github.com/Meteor-Community-Packages/meteor-mocha)
 * [Meteor Browser Tests](https://github.com/Meteor-Community-Packages/meteor-browser-tests)
