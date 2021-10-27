@@ -4,9 +4,9 @@ description: meteor-minifiers-autoprefix
 lang: cs-CZ
 ---
 
-This package provides a minifier plugin used for Meteor apps by default and adds autoprefixing to it.
+Tento balíček poskytuje minifier plugin, který se ve výchozím nastavení používá pro Meteor aplikace a přidává autoprefix.
 
-The CSS minifier mostly reduces amount of white-space parsing CSS with ParseCSS.
+CSS minifier většinou snižuje množství mezer parsováním CSS s ParseCSS.
 
 ## Správci
 * [Seba Kerckhof](https://github.com/sebakerckhof)
