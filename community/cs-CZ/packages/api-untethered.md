@@ -1,11 +1,11 @@
 ---
 title: API Untethered
-description: A collection of packages to make Meteor available to other environments.
+description: Kolekce balíčků, které Meteor zpřístupní ostatním prostředím.
 lang: cs-CZ
 ---
 
 ## Správci
 * [Kelly Copley](https://github.com/sponsors/copleykj/)
 
-## Package
+## Balíček
 - [GitHub repozitář](https://github.com/Meteor-Community-Packages/meteor-api-untethered)
