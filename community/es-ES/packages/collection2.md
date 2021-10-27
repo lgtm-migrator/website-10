@@ -4,7 +4,7 @@ description: Extending collections with schema.
 lang: en
 ---
 
-A Meteor package that allows you to attach a schema to a Mongo.Collection. Automatically validates against that schema when inserting and updating from client or server code.
+A Meteor package that allows you to attach a schema to a Mongo. Collection. Automatically validates against that schema when inserting and updating from client or server code.
 
 This package requires the [simpl-schema NPM package](https://github.com/aldeed/simple-schema-js), which defines the schema syntax and provides the validation logic.
 
