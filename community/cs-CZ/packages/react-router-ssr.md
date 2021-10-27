@@ -4,7 +4,7 @@ description:
 lang: cs-CZ
 ---
 
-Simple isomorphic React SSR for Meteor with subscribed data re-hydration.
+Jednoduchý izomorfní React SSR pro Meteor s daty ze subscriptny pro rehydrataci.
 
 ## Správci
 * [Kelly Copley](https://github.com/sponsors/copleykj)
