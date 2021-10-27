@@ -4,7 +4,7 @@ description: Meteor Method Hooks
 lang: cs-CZ
 ---
 
-Before/after hooks for Meteor methods.
+Hooky před/po zavolání Meteor metod.
 
 ## Správci
 * [Seba Kerchhof](https://github.com/sebakerckhof)
