@@ -1,13 +1,13 @@
 ---
 title: Packosphere
-description: Community maintained Meteor package browser
-lang: en
+description: Komunitou udržovaný prohlížeč Meteor balíčků
+lang: cs-CZ
 ---
 
-## Address
+## Adresa
 [https://packosphere.com/](https://packosphere.com/)
 
-## Manager
+## Správci
 * [Kelly Copley](https://github.com/sponsors/copleykj/)
 
-## Description
+## Popis
