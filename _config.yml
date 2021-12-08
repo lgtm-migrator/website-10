@@ -46,6 +46,9 @@ sidebar_categories:
     - packages/timesync
     - packages/user-status
 github_repo: Meteor-Community-Packages/website
+social_links:
+  github: https://github.com/Meteor-Community-Packages
+  twitter: '@MeteorCommunity'
 
 url: http://meteorjs.community/
 root: /

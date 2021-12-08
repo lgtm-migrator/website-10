@@ -49,8 +49,8 @@ nav_links:
     target: _new
     active: false
 social_links:
-  github: https://github.com/meteor
-  twitter: '@meteorjs'
+  github: https://github.com/Meteor-Community-Packages
+  twitter: '@MeteorCommunity'
 root: /
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
