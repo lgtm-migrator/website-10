@@ -16,7 +16,6 @@
     "hexo-renderer-less": "2.0.2",
     "hexo-renderer-marked": "^4.1.0",
     "hexo-server": "2.0.0",
-    "hexo-versioned-netlify-redirects": "1.1.0",
     "meteor-hexo-config": "1.0.12",
     "showdown": "1.9.1"
   },
