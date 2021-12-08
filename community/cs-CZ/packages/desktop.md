@@ -4,7 +4,7 @@ description: meteor-desktop
 lang: cs-CZ
 ---
 
-Vytvořte desktopové aplikace pomocí Meteoru & Electronu. Full integration with hot code push implementation.
+Vytvořte desktopové aplikace pomocí Meteoru & Electronu. Plná integrace s hot code push.
 
 ## Správci
 

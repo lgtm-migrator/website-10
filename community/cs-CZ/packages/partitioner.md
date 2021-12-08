@@ -1,10 +1,10 @@
 ---
-title: Partitioner
+title: Rozdělovač
 description:
 lang: cs-CZ
 ---
 
-Transparently divide a single Meteor app into several different instances shared between different groups of users.
+Transparentně rozdělí jednu aplikaci Meteor do několika různých instancí sdílených mezi různými skupinami uživatelů.
 
 ## Správci
 * [Andrew Mao](https://github.com/mizzao)

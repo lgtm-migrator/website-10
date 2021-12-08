@@ -1,9 +1,9 @@
 ---
 title: Slack
-description: Community Slack
-lang: en
+description: Komunitní Slack
+lang: cs-CZ
 ---
 
-The community maintains a Slack server for an immediate communication between members.
+Komunita udržuje Slack server pro okamžitou komunikaci mezi členy.
 
-Feel free to [join](https://join.slack.com/t/meteor-community/shared_invite/zt-a9lwcfb7-~UwR3Ng6whEqRxcP5rORZw).
+Neváhejte se [připojit](https://join.slack.com/t/meteor-community/shared_invite/zt-a9lwcfb7-~UwR3Ng6whEqRxcP5rORZw)!

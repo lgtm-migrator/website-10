@@ -1,12 +1,12 @@
 ---
 title: Collection Hooks
-description: Meteor Collection Hooks
+description: Hooky pro kolekce
 lang: cs-CZ
 ---
 
-Extends Mongo.Collection with `before`/`after` hooks for `insert`, `update`, `remove`, `find`, and `findOne`.
+Rozšiřuje Mongo.Collection s `before`/`after` hooky pro `insert`, `update`, `remove`, `find` a `findOne`.
 
-Works across client, server or a mix. Also works when a client initiates a collection method and the server runs the hook, all while respecting the collection validators (allow/deny).
+Funguje napříč klientem a serverem. Také funguje, když klient iniciuje metodu a server aktivuje hook, vše při respektování ověřovatelů kolekcí (allow/deny).
 
 ## Správci
 * [Seba Kerchhof](https://github.com/sebakerckhof)

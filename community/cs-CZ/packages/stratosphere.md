@@ -4,11 +4,11 @@ description: Soukromý server pro Meteor balíčky
 lang: cs-CZ
 ---
 
-Stratosphere is a private package server for Meteor. So this is like Atmosphere on your own servers, with private packages.
+Stratosphere je soukromý balíkový server pro Meteor. Takže je to jako Atmosphere na vlastních serverech, se soukromými balíčky.
 
-Besides your own packages, Stratosphere will also give you access to all packages on Atmosphere.
+Kromě vlastních balíčků vám Stratosphere také umožní přístup ke všem balíčkům v Atmosphere.
 
-At any time you can switch between package servers by setting an environment variable.
+Kdykoli můžete přepínat mezi balíkovými servery nastavením proměnné prostředí.
 
 ## Správci
 * [Mitar](https://github.com/sponsors/mitar)

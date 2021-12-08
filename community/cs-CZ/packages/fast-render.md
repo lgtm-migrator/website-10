@@ -6,7 +6,7 @@ lang: cs-CZ
 
 Fast Renderer je zpět!
 
-Fast Render can improve the initial load time of your app, giving you 2-10 times faster initial page loads. It provides the same effect as Server Side Rendering (SSR), but still sends data over the wire to avoid breaking one of Meteor’s core principles.
+Rychlé renderování může zlepšit počáteční čas načítání aplikace, což vám umožní 2x až 10x rychlejší načtení úvodní stránky. Poskytuje stejný efekt jako serverové rendrování (SSR), ale stále posílá data, aby nedošlo k rozbití jednoho z hlavních principů Meteoru.
 
 > Toto je pokračování meteorhacks:fast-render od @arunoda
 

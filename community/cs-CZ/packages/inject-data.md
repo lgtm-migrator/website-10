@@ -1,12 +1,12 @@
 ---
-title: Inject data
+title: Vkládání dat
 description:
 lang: cs-CZ
 ---
 
-A way to inject data to the client with initial HTML. A continuation of `meteorhacks:inject-data`.
+Způsob vkládání dat klientovi s počátečním HTML. Pokračování `meteorhacks:inject-data`.
 
-> This is the package used by `fast-render` to push data to the client with the initial HTML.
+> Tento balíček je používaný v `fast-rendered` pro odeslání dat klientovi s počátečním HTML.
 
 ## Správci
 * [Kelly Copley](https://github.com/sponsors/copleykj)

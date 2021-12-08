@@ -4,7 +4,7 @@ description:
 lang: cs-CZ
 ---
 
-Keeps track of user connection data, such as IP addresses, user agents, and client-side activity, and tracks this information in `Meteor.users` as well as some other objects. This allows you to easily see users that are online, for applications such as rendering the users box below showing online users in green and idle users in orange.
+Sleduje data o uživatelském připojení, jako jsou IP adresa, uživatelské agenty a aktivita na straně klienta, a sleduje tyto informace v `Meteor.users` stejně jako některé další objekty. To vám umožňuje snadno vidět uživatele, kteří jsou online a umožňuje vytvořit funkcionalitu jako je vykreslování uživatelského políčka se zobrazením zdali jsou online.
 
 ## Správci
 * [Andrew Mao](https://github.com/mizzao)

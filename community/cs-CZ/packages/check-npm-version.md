@@ -6,7 +6,7 @@ lang: cs-CZ
 
 Vynucuje "peer" závislosti npm v balících Meteor.
 
-Use this package if you are writing an Meteor package that depends on a given npm package is installed at the app level of projects you are installed in.
+Tento balíček použijte, pokud píšete balíček pro Meteor, který závisí na daném npm balíčku, který je nainstalován na úrovni aplikace.
 
 ## Správci
 * [Kelly Copley](https://github.com/sponsors/copleykj)

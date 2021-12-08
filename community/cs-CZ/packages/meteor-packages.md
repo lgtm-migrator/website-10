@@ -1,5 +1,5 @@
 ---
-title: Meteor Package Server Sync
+title: Synchronizační server pro Meteor balíčky
 description:
 lang: cs-CZ
 ---

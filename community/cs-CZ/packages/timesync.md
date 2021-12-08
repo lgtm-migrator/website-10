@@ -4,7 +4,7 @@ description: Synchronizace času mezi serverem a klientem.
 lang: cs-CZ
 ---
 
-NTP-style time synchronization between server and client, and facilities to use server time reactively in Meteor applications.
+Časová synchronizace mezi serverem a klientem ve stylu NTP a zařízení pro použití serverového času reaktivně v Meteor aplikacích.
 
 ## Správci
 * [William Reiske](https://github.com/sponsors/wreiske)

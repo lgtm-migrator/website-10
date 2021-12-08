@@ -1,12 +1,12 @@
 ---
 title: Kompozitní publikace
-description: Reactively publish selection from multiple collections that depend on data from the previous collection.
+description: Reaktivně zveřejňuje výběr z více kolekcí, které závisejí na údajích z předchozí kolekce.
 lang: cs-CZ
 ---
 
-`publishComposite(...)` provides a flexible way to publish a set of related documents from various collections using a reactive join. This makes it easy to publish a whole tree of documents at once. The published collections are reactive and will update when additions/changes/deletions are made.
+`publishComposite(...)` poskytuje flexibilní způsob, jak publikovat set souvisejících dokumentů z různých kolekcí pomocí reaktivního spojení. Díky tomu je snadné publikovat celý strom dokumentů najednou. Zveřejněné kolekce jsou reaktivní a budou aktualizovány při přidání/změnách/mazání.
 
-This project differs from many other parent/child relationship mappers in its flexibility. The relationship between a parent and its children can be based on almost anything. For example, let's say you have a site that displays news articles. On each article page, you would like to display a list at the end containing a couple of related articles. You could use `publishComposite` to publish the primary article, scan the body for keywords which are then used to search for other articles, and publish these related articles as children. Of course, the keyword extraction and searching are up to you to implement.
+Tento projekt se liší od mnoha dalších mapování vztahů rodiče/dítěte ve své flexibilitě. Vztah mezi rodiči a jeho dětmi může být založen téměř na cokoliv. Například řekněme, že máte stránku, která zobrazuje novinkové články. Na každé stránce článku byste chtěli zobrazit seznam na konci obsahující několik příbuzných článků. Pro publikování primárního článku můžete použít `publishComposite`, vzít klíčová slova, která se pak používají pro hledání jiných článků, a publikovat tyto související články jako děti. Samozřejmě, výběr klíčového slova a vyhledávání je na vás, abyste implementovali.
 
 ## Správci
 * [Sean Dwyer](https://github.com/reywood)

@@ -1,6 +1,6 @@
 ---
-title: Meteor Community
-lang: en
+title: Comunidade Meteor
+lang: pt-Br
 ---
 
-Welcome to the crossroad of Meteor Community. This page is maintained by the Meteor Community Packages, which maintain important community packages for the Meteor JS framework.
+Bem-vindo à Comunidade Meteor. Esta página é mantida pela Meteor Community Packages, que mantêm importantes pacotes da comunidade para o framework Meteor JS.

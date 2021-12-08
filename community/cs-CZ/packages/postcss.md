@@ -6,7 +6,7 @@ lang: cs-CZ
 
 Meteor CSS Minifier s PostCSS zpracováním.
 
-Tento balíček umožňuje používat [PostCSS](https://github.com/postcss/postcss) pluginy s .css soubory. You can add your custom plugins by adding Npm packages using `package.json`. You can also use your favourite preprocessor side by side with this package. It allows you to enable many PostCSS plugins, for example Autoprefixer for all preprocessors you use. (Of course you can use it whithout any preprocessor too).
+Tento balíček umožňuje používat [PostCSS](https://github.com/postcss/postcss) pluginy s .css soubory. Vlastní pluginy můžete přidat přidáním Npm balíčků pomocí `package.json`. Můžete také použít svůj oblíbený preprocesor s tímto balíčkem. Umožňuje vám povolit mnoho pluginů PostCSS, například Autoprefixer pro všechny preprocesory, které používáte. (Samozřejmě, že můžete použít i bez preprocesorů).
 
 ## Správci
 * [Kelly Copley](https://github.com/sponsors/copleykj/)
