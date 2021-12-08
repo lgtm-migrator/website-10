@@ -21,6 +21,10 @@ jobs:
           key: ${{ runner.OS }}-npm-cache
           restore-keys: |
             ${{ runner.OS }}-npm-cache
+      - run: cd themes/meteor
+      - name: Install theme
+        run: npm install
+      - run: cd ../../
       - name: Install Dependencies
         run: npm install
       - name: Build

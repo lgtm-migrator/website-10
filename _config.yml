@@ -73,7 +73,6 @@ external_link:
   field: site
   exclude: []
 
-# theme: '../node_modules/meteor-theme-hexo'
 theme: 'meteor'
 default_layout: page
 

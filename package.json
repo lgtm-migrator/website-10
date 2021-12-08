@@ -18,7 +18,6 @@
     "hexo-server": "2.0.0",
     "hexo-versioned-netlify-redirects": "1.1.0",
     "meteor-hexo-config": "1.0.12",
-    "meteor-theme-hexo": "2.0.3",
     "showdown": "1.9.1"
   },
   "scripts": {
