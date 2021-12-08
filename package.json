@@ -6,7 +6,7 @@
     "version": "5.4.0"
   },
   "devDependencies": {
-    "@quave/eslint-config-quave": "^1.0.5",
+    "@quave/eslint-config-quave": "^1.0.7",
     "canonical-json": "0.0.4",
     "chexo": "1.0.7",
     "handlebars": "4.7.7",
