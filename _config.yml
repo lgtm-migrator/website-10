@@ -14,35 +14,36 @@ sidebar_categories:
     - projects/newsletter
     - projects/slack
     - projects/meetups
-    - projects/impact
     - projects/packosphere
     - projects/testing
+    - projects/impact
   Packages:
-    - packages/index
-    - packages/collection2
-    - packages/roles
-    - packages/autoform
-    - packages/collection-hooks
-    - packages/method-hooks
-    - packages/picker
-    - packages/publish-composite
-    - packages/fast-render
-    - packages/inject-data
-    - packages/stylus
-    - packages/stratosphere
-    - packages/link-accounts
     - packages/api-untethered
+    - packages/autoform
     - packages/check-npm-version
-    - packages/push
-    - packages/partitioner
-    - packages/minifiers-autoprefix
+    - packages/collection-hooks
+    - packages/collection2
+    - packages/desktop
+    - packages/elastic-apm
+    - packages/fast-render
+    - packages/index
+    - packages/inject-data
+    - packages/link-accounts
     - packages/meteor-packages
     - packages/meteor-scss
+    - packages/method-hooks
+    - packages/minifiers-autoprefix
+    - packages/partitioner
+    - packages/picker
     - packages/postcss
-    - packages/desktop
-    - packages/timesync
+    - packages/publish-composite
+    - packages/push
     - packages/react-router-ssr
-    - packages/elastic-apm
+    - packages/roles
+    - packages/stratosphere
+    - packages/stylus
+    - packages/tabular
+    - packages/timesync
     - packages/user-status
 github_repo: Meteor-Community-Packages/website
 
