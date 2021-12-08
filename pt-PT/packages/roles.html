@@ -1,0 +1,860 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+
+    
+      <!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-MBQ369M');</script>
+      <!-- End Google Tag Manager -->
+    
+
+    <!-- Basic -->
+    <title>Roles | Meteor Community</title>
+    <meta name="description" content="meteor-roles">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+      <link rel="shortcut icon" type="image/png" href="../../images/favicon-meteor.png" sizes="16x16 32x32 64x64">
+    
+
+    <!-- Social -->
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://meteorjs.community">
+    <meta property="og:title" content="Roles | Meteor Community">
+    <meta property="og:description" content="meteor-roles">
+    <meta property="og:image" content="">
+    <meta name="twitter:site" content="@MeteorCommunity">
+    <meta name="twitter:title" content="Roles | Meteor Community">
+    <meta name="twitter:description" content="meteor-roles">
+    <meta name="twitter:image" content="">
+
+    <!-- Misc -->
+    <meta name="google-site-verification" content="" />
+
+    
+    
+    <link href='//cdn.jsdelivr.net/npm/prismjs@1.15.0/themes/prism.min.css' rel='stylesheet' type='text/css'>
+    <link href='//cdn.jsdelivr.net/npm/prismjs@1.15.0/plugins/line-numbers/prism-line-numbers.min.css' rel='stylesheet' type='text/css'>
+    <link href='//cdn.jsdelivr.net/npm/prismjs@1.15.0/plugins/line-highlight/prism-line-highlight.css' rel='stylesheet' type='text/css'>
+
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,200,300italic,400italic' rel='stylesheet' type='text/css'>
+    
+      <link rel="stylesheet" href="../../style/bundle-meteor.css">
+    
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css"
+    />
+  <!-- hexo injector head_end start -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/themes/prism.css">
+<!-- hexo injector head_end end --><meta name="generator" content="Hexo 5.4.0"></head>
+  <body class="">
+    <script>0</script>
+    
+      <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MBQ369M"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+    
+      
+
+  <div class="nav dark">
+    <div class="nav-group left">
+      <div class="nav-item mobile-button js-sidebar-toggle show-mobile">
+        <span class="icon-menu"></span>
+      </div>
+      <div class="nav-item nav-item-logo">
+        
+        <a class="logo-wrapper" href="" title=" Community"  >
+          <img src="../../images/meteor-cloud.png" alt="" class="logo"/>
+          
+            <span>Community</span>
+          
+        </a>
+      </div>
+    </div>
+
+    <div class="nav-group right">
+      
+        <div class="nav-item show-desktop false ">
+          <a class="link" href="https://www.meteor.com/cloud" target=_new >
+            <span>Meteor Cloud</span>
+          </a>
+        </div>
+      
+        <div class="nav-item show-desktop false ">
+          <a class="link" href="https://www.meteor.com/developers/tutorials" target=_new >
+            <span>Tutorials</span>
+          </a>
+        </div>
+      
+        <div class="nav-item show-desktop false ">
+          <a class="link" target="_blank" rel="noopener" href="https://guide.meteor.com"  >
+            <span>Guide</span>
+          </a>
+        </div>
+      
+        <div class="nav-item show-desktop false ">
+          <a class="link" target="_blank" rel="noopener" href="https://docs.meteor.com"  >
+            <span>API Docs</span>
+          </a>
+        </div>
+      
+        <div class="nav-item show-desktop false ">
+          <a class="link" href="https://forums.meteor.com/" target=_new >
+            <span>Forums</span>
+          </a>
+        </div>
+      
+    </div>
+  </div>
+
+  
+
+<div class="sidebar ">
+  <div class="panel">
+    
+      <div class="panel-item">
+        <a class="" href="../../" title=""  >
+          <span> Community</span>
+        </a>
+      </div>
+      
+        <div class="panel-item false">
+          <a class="" href="https://www.meteor.com/cloud" target=_new >
+            <span>Meteor Cloud</span>
+          </a>
+        </div>
+      
+        <div class="panel-item false">
+          <a class="" href="https://www.meteor.com/developers/tutorials" target=_new >
+            <span>Tutorials</span>
+          </a>
+        </div>
+      
+        <div class="panel-item false">
+          <a class="" target="_blank" rel="noopener" href="https://guide.meteor.com"  >
+            <span>Guide</span>
+          </a>
+        </div>
+      
+        <div class="panel-item false">
+          <a class="" target="_blank" rel="noopener" href="https://docs.meteor.com"  >
+            <span>API Docs</span>
+          </a>
+        </div>
+      
+        <div class="panel-item false">
+          <a class="" href="https://forums.meteor.com/" target=_new >
+            <span>Forums</span>
+          </a>
+        </div>
+      
+    
+  </div>
+
+  <div class="sidebar-content">
+    <div class="topcap">
+      <span class="title-sidebar">Meteor Community</span>
+      
+    </div>
+
+    
+    <div class="wrapper-search">
+      <div class="input-area">
+        <div class="input-symbol small round">
+          <input type="text" placeholder="Search Meteor Community Packages" id="desktop-search-input" />
+          <span class="icon-search"></span>
+        </div>
+      </div>
+      <div class="wrapper-desktop-search-results"></div>
+    </div>
+
+    
+
+    <ul class="toc">
+      
+        <li>
+          
+
+          <ul class="list-toc">
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../."
+                  class="sidebar-link "
+                >
+                  <span>Meteor Community</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../news.html"
+                  class="sidebar-link "
+                >
+                  <span>News</span>
+                </a>
+              </li>
+              
+            
+          </ul>
+        </li>
+
+        <hr />
+      
+        <li>
+          
+            <div class="heading-toc">Projects</div>
+          
+
+          <ul class="list-toc">
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../projects/."
+                  class="sidebar-link "
+                >
+                  <span>Introduction</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../projects/newsletter.html"
+                  class="sidebar-link "
+                >
+                  <span>Newsletter</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../projects/slack.html"
+                  class="sidebar-link "
+                >
+                  <span>Slack</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../projects/meetups.html"
+                  class="sidebar-link "
+                >
+                  <span>Meetups</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../projects/packosphere.html"
+                  class="sidebar-link "
+                >
+                  <span>Packosphere</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../projects/testing.html"
+                  class="sidebar-link "
+                >
+                  <span>Testing</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../projects/impact.html"
+                  class="sidebar-link "
+                >
+                  <span>Impact conference</span>
+                </a>
+              </li>
+              
+            
+          </ul>
+        </li>
+
+        <hr />
+      
+        <li>
+          
+            <div class="heading-toc">Packages</div>
+          
+
+          <ul class="list-toc">
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../packages/api-untethered.html"
+                  class="sidebar-link "
+                >
+                  <span>API Untethered</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../packages/autoform.html"
+                  class="sidebar-link "
+                >
+                  <span>Autoform</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../packages/check-npm-version.html"
+                  class="sidebar-link "
+                >
+                  <span>Check NPM version</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../packages/collection-hooks.html"
+                  class="sidebar-link "
+                >
+                  <span>Collection Hooks</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../packages/collection2.html"
+                  class="sidebar-link "
+                >
+                  <span>Collection 2</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../packages/desktop.html"
+                  class="sidebar-link "
+                >
+                  <span>Desktop</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../packages/elastic-apm.html"
+                  class="sidebar-link "
+                >
+                  <span>Elastic APM</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../packages/fast-render.html"
+                  class="sidebar-link "
+                >
+                  <span>Fast Render</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../packages/."
+                  class="sidebar-link "
+                >
+                  <span>Introduction</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../packages/inject-data.html"
+                  class="sidebar-link "
+                >
+                  <span>Inject data</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../packages/link-accounts.html"
+                  class="sidebar-link "
+                >
+                  <span>Link accounts</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../packages/meteor-packages.html"
+                  class="sidebar-link "
+                >
+                  <span>Meteor Package Server Sync</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../packages/meteor-scss.html"
+                  class="sidebar-link "
+                >
+                  <span>SASS for Meteor</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../packages/method-hooks.html"
+                  class="sidebar-link "
+                >
+                  <span>Method Hooks</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../packages/minifiers-autoprefix.html"
+                  class="sidebar-link "
+                >
+                  <span>Standard Minifier for CSS + autoprefixing</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../packages/partitioner.html"
+                  class="sidebar-link "
+                >
+                  <span>Partitioner</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../packages/picker.html"
+                  class="sidebar-link "
+                >
+                  <span>Picker</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../packages/postcss.html"
+                  class="sidebar-link "
+                >
+                  <span>PostCSS</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../packages/publish-composite.html"
+                  class="sidebar-link "
+                >
+                  <span>Publish composite</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../packages/push.html"
+                  class="sidebar-link "
+                >
+                  <span>Push</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../packages/react-router-ssr.html"
+                  class="sidebar-link "
+                >
+                  <span>React Router SSR</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../packages/roles.html"
+                  class="sidebar-link "
+                >
+                  <span>Roles</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../packages/stratosphere.html"
+                  class="sidebar-link "
+                >
+                  <span>Stratosphere</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../packages/stylus.html"
+                  class="sidebar-link "
+                >
+                  <span>Stylus</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../packages/tabular.html"
+                  class="sidebar-link "
+                >
+                  <span>Tabular</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../packages/timesync.html"
+                  class="sidebar-link "
+                >
+                  <span>Timesync</span>
+                </a>
+              </li>
+              
+            
+              
+
+              
+              <li class="item-toc ">
+                <a
+                  href="../../packages/user-status.html"
+                  class="sidebar-link "
+                >
+                  <span>User status</span>
+                </a>
+              </li>
+              
+            
+          </ul>
+        </li>
+
+        <hr />
+      
+    </ul>
+  </div>
+</div>
+
+    <div class="content">
+
+      <div class="header-content">
+        <div class="header-wrapper">
+          <div class="title-wrapper">
+            <h1 class="title-page">
+              Roles
+            </h1>
+            
+              <div class="subtitle-page">
+                meteor-roles
+              </div>
+              
+          </div>
+        </div>
+      </div>
+
+      <div class="content-wrapper">
+        <div class="document-formatting">
+          <p>Authorization package for Meteor - compatible with built-in accounts package.</p>
+<h2 id="Managers"><a href="#Managers" class="headerlink" title="Managers"></a>Managers</h2><ul>
+<li><a target="_blank" rel="noopener" href="https://github.com/alanning">Adrian Lanning</a></li>
+<li><a target="_blank" rel="noopener" href="https://github.com/sponsors/mitar">Mitar</a></li>
+<li><a target="_blank" rel="noopener" href="https://github.com/SimonSimCity">Simon Schick</a></li>
+<li><a target="_blank" rel="noopener" href="https://github.com/sponsors/copleykj">Kelly Copley</a></li>
+<li><a target="_blank" rel="noopener" href="https://github.com/sponsors/StorytellerCZ">Jan Dvorak</a></li>
+</ul>
+<h2 id="Package"><a href="#Package" class="headerlink" title="Package"></a>Package</h2><ul>
+<li><a target="_blank" rel="noopener" href="https://github.com/Meteor-Community-Packages/meteor-roles">GitHub repository</a></li>
+<li><a target="_blank" rel="noopener" href="https://atmospherejs.com/alanning/roles">Atmosphere</a></li>
+<li><a target="_blank" rel="noopener" href="https://packosphere.com/alanning/roles">Packosphere</a></li>
+</ul>
+
+        </div>
+      </div>
+
+      <div class="pagination">
+        <div class="content-wrapper">
+          
+          
+
+              <a class="link primary prev" href="../../packages/react-router-ssr.html">
+                <span class="icon-arrow-left-alt"></span>
+                <span class="subtitle-pagination">Previous</span>
+                React Router SSR
+              </a>
+
+          
+          
+
+              <a class="link primary next" href="../../packages/stratosphere.html">
+                <span class="subtitle-pagination">Next</span>
+                Stratosphere
+                  <span class="icon-arrow-right-alt"></span>
+              </a>
+
+          
+        </div>
+      </div>
+
+      <div class="github">
+        <a class="link tertiary " href="https://github.com/Meteor-Community-Packages/website/tree/master/community/pt-PT/packages/roles.md" target="_blank">
+          <span class="icon-github"></span>Edit on GitHub</a>
+      </div>
+
+      
+    </div>
+
+
+    
+    <script type="text/javascript" src="//cdn.jsdelivr.net/npm/prismjs@1.15.0/prism.min.js"></script>
+    <script type="text/javascript" src="//cdn.jsdelivr.net/npm/prismjs@1.15.0/plugins/line-numbers/prism-line-numbers.min.js"></script>
+    <script type="text/javascript" src="//cdn.jsdelivr.net/npm/prismjs@1.15.0/plugins/line-highlight/prism-line-highlight.min.js"></script>
+        <script type="text/javascript" src="//cdn.jsdelivr.net/combine/npm/prismjs@1.15.0/components/prism-bash.min.js,npm/prismjs@1.15.0/components/prism-graphql.min.js,npm/prismjs@1.15.0/components/prism-json.min.js,npm/prismjs@1.15.0/components/prism-jsx.min.js,npm/prismjs@1.15.0/components/prism-less.min.js,npm/prismjs@1.15.0/components/prism-swift.min.js,npm/prismjs@1.15.0/components/prism-typescript.min.js,npm/prismjs@1.15.0/components/prism-yaml.min.js"></script>
+
+    <script type="text/javascript" src="//cdn.jsdelivr.net/npm/smooth-scroll@12.1.5/dist/js/smooth-scroll.min.js"></script>
+
+    <script>
+      // Used by the main.js script below.
+      docsConfigRoot = '/';
+    </script>
+    <script src="../../script/main.js"></script>
+
+    
+      <script type="text/javascript" src="//cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.js"></script>
+    
+    <script type="text/javascript" src="//cdn.jsdelivr.net/fastclick/1.0.6/fastclick.min.js"></script>
+
+    <script>
+      // nectar ninja
+      (function(){
+        var handle = '@meteorjs';
+        var a = document.createElement('script');
+        var m = document.getElementsByTagName('script')[0];
+        a.async = 1;
+        a.src = 'https://nectar.ninja/api/v1/' + handle.slice(1);
+        m.parentNode.insertBefore(a, m);
+      })();
+    </script>
+
+    
+
+    
+      <script>
+        
+        var analytics;
+
+        <!-- Segment.io -->
+        !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t,e){var n=document.createElement("script");n.type="text/javascript";n.async=!0;n.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var o=document.getElementsByTagName("script")[0];o.parentNode.insertBefore(n,o);analytics._loadOptions=e};analytics.SNIPPET_VERSION="4.1.0";
+        analytics.load("zQx6cQifkTU79E3L0XAnmrOXP2A5bC6r");
+        analytics.page();
+        }}();
+      </script>
+    
+
+    // search box
+    
+      <script>
+        ['desktop'].forEach(function(type) {
+          var search = docsearch({
+            apiKey: '85d8a989beb6790642e6edd6ea380788',
+            
+            
+            indexName: 'meteor',
+            inputSelector: '#' + type + '-search-input',
+            autocompleteOptions: {
+              dropdownMenuContainer: '.wrapper-' + type + '-search-results',
+              debug: true
+            },
+            algoliaOptions: {
+              hitsPerPage: 20
+            }
+          }).autocomplete;
+
+          var sidebar = document.querySelector('.sidebar-content');
+          search.on('autocomplete:opened', function() {
+            sidebar.classList.add('searching');
+          });
+          search.on('autocomplete:closed', function() {
+            sidebar.classList.remove('searching');
+          });
+          search.on('autocomplete:updated', function() {
+            if (search.val() === '') {
+              search.autocomplete.close();
+            }
+          });
+        });
+      </script>
+    
+
+    
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+    <script>
+      window.addEventListener('load', function () {
+        window.cookieconsent.initialise({
+          palette: {
+            popup: {
+              background: '#555',
+            },
+            button: {
+              text: '#333',
+              background: '#CCC',
+            },
+          },
+        })
+      });
+    </script>
+  <!-- hexo injector body_end start -->
+<script src="/assets/prism-bundle.js"></script>
+<script src="/assets/prism-plus.js" data-pjax=""></script>
+<!-- hexo injector body_end end --></body>
+</html>
