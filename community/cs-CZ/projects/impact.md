@@ -11,4 +11,4 @@ lang: cs-CZ
 * [Jan Dvořák](https://github.com/sponsors/StorytellerCZ)
 
 ## Popis
-Meteor Impact je každoroční konference, probíhající během [Hacktoberfest](https://hacktoberfest.digitalocean.com/), je dvoudenní virtuální událost pro Meteor komunitu po celém světě.
+Meteor Impact is an annual conference, set during [Hacktoberfest](https://hacktoberfest.digitalocean.com/), is a two day virtual event for the Meteor community across the globe. Started in 2020 by [Jan Dvorak](https://github.com/sponsors/StorytellerCZ), it went under full Meteor Software control from 2022.
