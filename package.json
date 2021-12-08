@@ -20,8 +20,7 @@
     "showdown": "1.9.1"
   },
   "scripts": {
-    "build-chexo": "chexo meteor-hexo-config -- generate",
-    "build": "hexo generate --config _multiconfig.yml",
+    "build": "chexo meteor-hexo-config -- generate",
     "clean": "hexo clean",
     "test": "npm run clean; npm run build",
     "predeploy": "npm run build",
